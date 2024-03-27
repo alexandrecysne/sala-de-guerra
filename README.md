@@ -1,5 +1,11 @@
-# sala-de-guerra
+# Artigo
 
-## Caracterizando Salas de Guerra para Solução de Problemas em Sistemas de Software
+## Investigando a Prática de Salas de Guerra na Solução de Problemas Críticos em Sistemas de Software
 
-Materiais relativos às entrevistas semi-estruturadas e resultados da pesquisa.
+Materiais:
+
+* Declaração de consentimento - Google Forms
+* Resultado das informações - Google Forms
+* Material de apoio para as entrevistas semi-estruturada
+* Transcrição das entrevistas semi-estruturada
+* Codificação da associação livre
